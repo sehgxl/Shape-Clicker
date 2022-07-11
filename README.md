@@ -3,9 +3,8 @@ Click on random shapes and have fun playing with it.
 
 ## [Play](https://sehgxl.github.io/Shape-Clicker/)
 
+![random shape game Gif](https://user-images.githubusercontent.com/83122406/178222193-94a50688-79a6-4004-a8aa-91c8a4a9f867.gif)
 
-
-![y0u77Mo0DC](https://user-images.githubusercontent.com/83122406/165842778-b2b624a0-a059-4446-8694-25299fe77635.gif)
 
 
 
